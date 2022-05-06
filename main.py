@@ -49,8 +49,7 @@ def run_jarvis():
         print(info)
         talk(info)
 
-    elif 'madhu' in command:
-        talk('such a beautiful,intelligent and caring wife for AKR')
+   
 
     elif 'about pc owner' in command:
         talk('his name is akr,he is such good boy for who respect him andd bad for who is troubling')
@@ -59,18 +58,6 @@ def run_jarvis():
     elif 'akr' in command:
         talk('he is such good boy for who respect him andd bad for who is troubling')
 
-    elif 'doctor nandha' in command:
-        talk('he is a dentiest and such a gentle and humble person')
-
-
-    elif 'papu' in command:
-        talk('such a beautiful,intelligent and caring wife for AKR')
-
-    elif 'ilavarasan' in command:
-
-        talk('he is such a fucking mentel')
-    elif 'harry' in command:
-        talk('he is such a fucking critical pyscho')
 
     elif 'are you single' in command:
         talk('I am in a relationship with AKR Brain')
